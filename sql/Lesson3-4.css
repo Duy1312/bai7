@@ -1,0 +1,47 @@
+.header, .footer {
+    background-color: lightblue;
+    height: 10vh;
+}
+
+.left-sidebar, .right-sidebar {
+    background-color: azure;
+    padding: 0;
+}
+
+.main-page {
+    background-color: beige;
+}
+
+.color-select{
+    margin: .5em 0;
+}
+
+
+.card-box {
+    padding: 1em;
+}
+
+.card-row {
+    display: inline-flex;
+}
+
+.search-box {
+    width: 30vw;
+    float: right;
+    margin: 1em;
+}
+
+.action-list{
+    border-radius: 0;
+}
+.black {
+    background-color: darkgray;
+}
+
+.white {
+    background-color: white;
+}
+
+.gold {
+    background-color: goldenrod;
+}
